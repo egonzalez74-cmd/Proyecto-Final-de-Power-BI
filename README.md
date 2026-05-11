@@ -19,5 +19,4 @@ A través de visualizaciones dinámicas y herramientas de análisis, se busca fa
 - **Power BI Desktop**
 - **Base de datos Northwind**
 - **Excel / CSV**
-- **Power Query**
 - **DAX (Data Analysis Expressions)**
